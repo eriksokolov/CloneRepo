@@ -1,7 +1,7 @@
 repo
 "cli-translator"
-"radio"
+"StartRadio"
 "PrintPDF"
-"taskscheduler"
-"Upload-Git"
-"poweranki"
+"CreateTask"
+"UploadGit"
+"LearnVocab"
